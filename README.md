@@ -1,7 +1,7 @@
 
 # Python Unittest to Functional Code 
 
-This is a simple web application the utilize GPT to convert python unittest to functional python code.
+This is a simple web application the utilizes GPT to convert python unittest to functional python code.
 ## Getting Started
 
 First, run the development server:
