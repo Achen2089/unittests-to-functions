@@ -4,7 +4,7 @@
 This is a simple web application the utilizes GPT to convert python unittest to functional python code.
 ## Getting Started
 
-Setup Open AI API key in .env file
+Setup [Open AI API key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key) in .env file
 
 ```bash
 touch .env
